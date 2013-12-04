@@ -14,6 +14,7 @@ Wardrobe has a few system requirements:
 
 - PHP >= 5.3.7
 - MCrypt PHP Extension
+- GD Extension (php5-gd)
 - PDO compliant database (SQL, MySQL, PostgreSQL, SQLite)
 
 Installing Wardrobe
